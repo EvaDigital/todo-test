@@ -1,0 +1,4 @@
+aws-cdk-lib==2.108.1
+constructs<4.0.0,>=3.3.69
+boto3
+aws-cdk.core
